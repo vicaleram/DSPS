@@ -2,9 +2,10 @@
 
 Welcome to Data Science for Physical Scientists, a class developed and taught by Federica Bianco at the University of Delaware Physics and Astronomy Departmant : PHY 467/667
 
+**This class has a [Code of Conduct](CodeofConduct.md) Before you do any thing else, please review the code of conduct. If you have questions of concerns about it let me know promptly**
+
 Please review the [Syllabus](http://bit.ly/dspssyllabus)
 
-**Code of Conduct:** Diversity is considered a resource that enriches us culturally and intellectually in this class. No instances of harassment or attempts to marginalize students will be tolerated in my class. Be respectful and collaborate instead of competing. If you have concerns please come talk to me (details on the UDel code of conduct and ethical policies follow at the end of the syllabus)
 
 **Course Description** This course will teach you the basis of data driven inference in the physical sciences.  You will learn a examples of machine learning methods applied to current problems in Phsyics and the Natural Sciences. You will acquire basic computational skills, knowledge of statistical analysis, error analysis, good practises for handling, processing, and analyzing data and (including big-data) programmatically, and communication and visualization skills.  Some of the simpler algorithms will be explored in detail and implemented from scratch, others will be implemented through the use of dedicated python libraries.
 
