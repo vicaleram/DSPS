@@ -1,6 +1,7 @@
 # This is a markdown file guiding you through the very first steps to create and manage a git repo with github.
 
-## Lets start on your bash shell
+## Lets start on your bash shell: if you do not have access to a terminal (you do if you use a Mac or Linux machine!) come talk to me
+
 Crete a directory
 
 ![Alt text](lab1_imgs/Lab1_mkdir.png)
