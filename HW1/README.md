@@ -12,7 +12,7 @@ Objective: familiarize with Github
 # 1: Create a DSPS repo
 - Make an account on GitHub if you do not have one yet
 
-- Create a repository called DSPS_<firstinitialLastname>
+- Create a repository called DSPS_\<firstinitialLastname\>
 upload your repo URL on canvas HW 1
   
   
