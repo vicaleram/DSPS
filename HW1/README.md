@@ -13,7 +13,7 @@ Objective: familiarize with Github
 - Make an account on GitHub if you do not have one yet
 
 - Create a repository called DSPS_\<firstinitialLastname\>
-upload your repo URL on canvas HW 1
+upload your repo URL on canvas HW 1. Please see [slides](https://slides.com/federicabianco/data-science-for-physical-scientists) for details
   
   
 # 2: Follow the instructions in githubCreateRepoCmds.md
