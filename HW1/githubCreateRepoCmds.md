@@ -1,6 +1,7 @@
 # This is a markdown file guiding you through the very first steps to create and manage a git repo with github.
 
-## Lets start on your bash shell: if you do not have access to a terminal (you do if you use a Mac or Linux machine!) come talk to me
+## Lets start on your bash shell: if you do not have access to a terminal (you do if you use a Mac or Linux machine) come talk to me
+
 
 Crete a directory
 
@@ -92,7 +93,7 @@ git commit myfirstfile.txt -m 'commit changes'
 git push 
 ```
 
-Now go online to your new github repo, and make changes directly to the online version of the file online
+Now go online to your new github repo, and make changes directly to the online version of the file *online* making sure you try to change the same line in both files
 
 ![Alt text](lab1_imgs/Lab1_file.png)
 
@@ -115,7 +116,7 @@ pull the changes over first.
 git pull
 ```
 
-Edit the file removing the lines starting with \>\>, \<\<, and ==, and decide what you want the file to look like to solve the conflict. I will use the editor _emacs_, but you can use whatever you like to edit the file (e.g. jupyter, or the mac text editor or whatever) 
+Edit the file removing the lines starting with \>\>, \<\<, and ==, and decide what you want the file to look like to solve the conflict. *I will use the editor _emacs_, but you can use whatever you like to edit the file (e.g. jupyter, aubplime, or the mac text editor, or really whatever) 
 
 ```
 emacs myfirstfile.txt 
@@ -143,7 +144,10 @@ git stash
 ```
 which, again, would throw away all the changes you had just made and committed, so be careful)
 
+
+
 ## Now let's mess with someone else's repo! the lady or gentleman to your left will do.
+
 Go online and fork your neighbor's repo, 
 then clone it: the URL was given to you online on your fork page 
 
@@ -170,6 +174,7 @@ Go online to your fork, check the changes, request a merge! You are asking your 
 
 ![Alt text](lab1_imgs/Lab1_pullRequest.png)
 ![Alt text](lab1_imgs/Lab1_createPull.png)
+
 
 ## Back to your own repo: accept your friend's pull request
 check your email: you will find the merge request from your new friend!
