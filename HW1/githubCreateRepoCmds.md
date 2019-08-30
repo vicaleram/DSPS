@@ -144,6 +144,8 @@ git stash
 ```
 which, again, would throw away all the changes you had just made and committed, so be careful)
 
+# This part of the homework requires you to work with a classmate. 
+Get their GitHub user name and make sure they have a gittest repository (i.e. that they got to this point of the exercise)
 
 
 ## Now let's mess with someone else's repo! the lady or gentleman to your left will do.
