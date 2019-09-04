@@ -64,8 +64,8 @@ Look on [stackoverflow](http://stackoverflow.com/), to get a sense of how people
 5. __If you are giving help__ always be respectuful of your classmates! Trolling, and rudeness will not be tollerated. 
 Look at this [code of conduct](https://www.recurse.com/manual#sec-environment) from the [Recourse Center](https://www.recurse.com/).
 Also from the same resource, let me take a wonderful piece of advise:
-    ```
-    Don't panic
+   
+ **Don't panic**
 
 Regardless of how much experience you have, 
 we admitted you because we believed you would be a positive influence on the batch, 
