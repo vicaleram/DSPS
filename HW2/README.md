@@ -9,7 +9,7 @@ A skeleton notebook is here
 
 Answer the questions in the notebook
 
-# Assignment 1: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem.
+# Assignment 2: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem.
 
 A skeleton notebook is here
 
