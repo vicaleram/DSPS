@@ -1,6 +1,6 @@
-savefig.facecolor : F1F1F1    
-savefig.edgecolor : F1F1F1    
-axes.facecolor : F1F1F1   
+savefig.facecolor : e7ecee    
+savefig.edgecolor : e7ecee    
+axes.facecolor : e7ecee   
 axes.labelcolor : .15
 axes.spines.right: False
 axes.spines.top: False
@@ -21,5 +21,5 @@ patch.force_edgecolor : True
 image.cmap : viridis
 axes.grid : False
 font.sans-serif : ["Arial", "DejaVu Sans", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
-figure.facecolor : F1F1F1  
-figure.edgecolor : F1F1F1   
+figure.facecolor : e7ecee  
+figure.edgecolor : e7ecee   
