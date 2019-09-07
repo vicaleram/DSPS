@@ -5,12 +5,12 @@ figure.edgecolor : F1F1F1
 savefig.facecolor : F1F1F1    
 savefig.edgecolor : F1F1F1    
 axes.labelcolor : .15
-axes.spines.left': False,
-axes.spines.right': False,
-xtick.major.top: False,
-xtick.direction : out,
-ytick.direction : out,
-ytick.major.right: False,
+axes.spines.left': False
+axes.spines.right': False
+xtick.major.top: False
+xtick.direction : out
+ytick.direction : out
+ytick.major.right: False
 xtick.color : .15
 ytick.color : .15
 axes.axisbelow : True
