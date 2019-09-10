@@ -1,4 +1,4 @@
-Season  TropicalDepressions NamedStorms Hurricanes  Category≥2  Majorhurricanes(Category≥3)	Category≥4	Category5
+Season  TropicalDepressions NamedStorms Hurricanes  Category≥2  Majorhurricanes(Category≥3)	Category≥4  Category5
 1967  29  8 6 2 1 1 1
 1968  14  8 5 0 0 0 0
 1969  20  18  12  7 5 1 1
